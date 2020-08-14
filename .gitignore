@@ -3,5 +3,7 @@
 .settings/org.eclipse.jdt.core.prefs
 .settings/org.eclipse.m2e.core.prefs
 target/*
-
+java-features-notebook/.ipynb_checkpoints/*
+java-features/.settings/*
+java-features/target/*
 
