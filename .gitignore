@@ -6,4 +6,8 @@ target/*
 java-features-notebook/.ipynb_checkpoints/*
 java-features/.settings/*
 java-features/target/*
-
+java-concurrency-features/.settings/
+java-concurrency-features/target/
+java-concurrency-features/.settings/
+java-concurrency-features/target/
+java-src/
