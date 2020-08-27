@@ -23,8 +23,7 @@ public class LoopTaskB implements Runnable {
 			try {
 				TimeUnit.MILLISECONDS.sleep((long)(Math.random() * 1000));
 			} catch (InterruptedException e) {
-				// TODO Auto-generated catch block
-				e.printStackTrace();
+				Thread.currentThread().interrupt();
 			}
 		}
 		
